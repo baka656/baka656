@@ -38,7 +38,7 @@ I'm on the hunt for exciting full-time opportunities in the world of software de
 
 <b>Short Intro for  me :</b>
 
-Currently thriving as a Solutions Architect Intern at AWS, I embark on an exhilarating journey collaborating with clients to forge, fashion, and unfurl cloud solutions that are not just scalable and secure, but truly exceptional. My toolkit spans across a realm of AWS services and technologies, and I'm all about bringing these pieces together into ingenious arrangements. Alongside the AWS dream team and our esteemed partners, I extend my expertise to navigate the complexities of multifaceted ventures. 🌟
+Thrived as a Solutions Architect Summeer 2023 Intern at AWS, I embark on an exhilarating journey collaborating with clients to forge, fashion, and unfurl cloud solutions that are not just scalable and secure, but truly exceptional. My toolkit spans across a realm of AWS services and technologies, and I'm all about bringing these pieces together into ingenious arrangements. Alongside the AWS dream team and our esteemed partners, I extend my expertise to navigate the complexities of multifaceted ventures. 🌟
 
 Now, let me give you a glimpse of my prowess 🚀:
 
