@@ -6,7 +6,7 @@
 
 <h3 align="center">I am a passionate coder and lifelong learner, dedicated to creating elegant solutions and exploring the endless possibilities of code.</h3>
 
-<img align="right" width="400" src="https://camo.githubusercontent.com/8bf6f6d78abc81fcf9c49f10649423e73ea44bc248e83aaae8759d401c829a84/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966">
+<img align="right" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=baka656&label=Profile%20views&color=0e75b6&style=flat" alt="abbhinav reddie" /> </p>
 
@@ -32,21 +32,23 @@
 
 <h2> 👨‍🎓🙋‍♂️ About Me : </h2>
 
-Hello Viewer 😎!
+Hello Viewer!
 
-I'm actively😥 looking for full-time opportunities😁 in software development👨🏻‍💻, distributed systems and full stack🥞 development starting from May 2024. I have significant coursework📚 in these fields and have a strong passion😍 for them.
+I'm on the hunt for exciting full-time opportunities in the world of software development 👨‍💻, distributed systems, and full stack 🥞 starting from May 2024. My background is rich in coursework 📚 in these areas, and my heart beats passionately 😍 for them.
 
 <b>Short Intro for  me :</b>
 
-I am Abbhinav Reddie Nomulla, a Computer Science masters🎓 student at San Jose State University🏫. I enjoy delving into various fields and strive to learn as much as I can. Although it may appear a bit overwhelming❤️‍🔥 at times, I find it fascinating! 😁
+Currently thriving as a Solutions Architect Intern at AWS, I embark on an exhilarating journey collaborating with clients to forge, fashion, and unfurl cloud solutions that are not just scalable and secure, but truly exceptional. My toolkit spans across a realm of AWS services and technologies, and I'm all about bringing these pieces together into ingenious arrangements. Alongside the AWS dream team and our esteemed partners, I extend my expertise to navigate the complexities of multifaceted ventures. 🌟
 
-I am a programmer👨🏻‍💻 and more into distributed systems and full stack development but yeah, can't miss problem solving❓⚠️, the best part of being a programmer.
+Now, let me give you a glimpse of my prowess 🚀:
 
-Also, if you wanna know my work so far as a programmer:
+My foundation is solid, particularly in software development – a MEAN stack enthusiast, to be precise! 📚 This forte was nurtured through academic endeavors and meaningful internships. The web applications I've orchestrated span various realms, including transportation, stock trading, and fitness. MongoDB, Node.js, Express, and Angular have danced under my command to craft these virtual marvels. And that's not all – I proudly sport certifications from tech giants like Microsoft, IBM, and Coursera in Python, SQL, and the fundamentals of software development. 🏆
 
-🎯 HackerRank problem solving certified
-🎯 3🌟 on codechef
-🎯 Have worked on varied projects & technologies 🤩
+While the present is exhilarating, my future is equally enticing:
+
+Currently on my way to conquering a Master's in Computer Science at San Jose State University, I'm immersing myself in the realms of cloud computing, data science, and artificial intelligence. My appetite for technology knows no bounds, and I'm on a mission to transform real-world predicaments into solutions that are as inventive as they are efficient. Teamwork flows in my veins, discipline and punctuality are my companions, and I'm like a sponge when it comes to learning. 🌱
+
+Dreaming big isn't just a motto – it's my roadmap to becoming an impactful and triumphant Solutions Architect in the realm of cloud innovation. ☁️
 
 <b>Skills 👻:</b><br><br>
 <b>Languages:</b> C, C++, C#, Java, Python, Ruby, R, Scala, Kotlin<br>
